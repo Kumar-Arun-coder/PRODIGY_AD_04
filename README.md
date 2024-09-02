@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game
+![Screenshot 2024-09-02 083903](https://github.com/user-attachments/assets/be2fc667-9c55-4c94-ad99-ee96e32115cf)# Tic-Tac-Toe Game
 
 
 ## Description
@@ -42,10 +42,18 @@ Tic-Tac-Toe:A simple, intuitive, and easy-to-use app is created using a Python f
 
 ## Screenshots
 
-()
+(![Screenshot 2024-09-02 083733](https://github.com/user-attachments/assets/0632b46b-4481-40b5-a383-df00293c5a65)
+)
+(![Screenshot 2024-09-02 083756](https://github.com/user-attachments/assets/10875ddc-ad8e-4a59-be0a-ca6463639df8)
+)
+(![Screenshot 2024-09-02 083822](https://github.com/user-attachments/assets/a158020e-eb06-443e-9ae5-80f2a227f96a)
+)
+(![Screenshot 2024-09-02 083903](https://github.com/user-attachments/assets/3b0d9887-5f9c-4702-b822-a2102148a6fc)
+)
 ## Dependencies
 
 - [Kivy](https://kivy.org/)
+- [Kivymd](https://kivymd.org/)
 
 ## Contributing
 
