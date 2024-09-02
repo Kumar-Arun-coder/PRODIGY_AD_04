@@ -1,4 +1,4 @@
-![Screenshot 2024-09-02 083903](https://github.com/user-attachments/assets/be2fc667-9c55-4c94-ad99-ee96e32115cf)# Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
 
 ## Description
